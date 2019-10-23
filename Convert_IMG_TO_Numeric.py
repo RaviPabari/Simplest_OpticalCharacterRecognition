@@ -1,6 +1,6 @@
 #Converting  Image into Numeric Form
 #Just For Understanding :)
-
+#feel free to explore
 from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt
