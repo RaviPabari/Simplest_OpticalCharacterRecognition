@@ -1,5 +1,5 @@
 Simplest Optical Character Recognition :)
-
+Creating PR just for T-shirt MerGopal
 Step 1: just run Convert_IMG_TO_Numeric to get an idea about converting an image into pixel by pixel in Numeric Format.	It's the most important step because if you don't know how to convert an image to numeric, or how the image is converted to numeric in this project, then it's worthless to just execute a project!
 	After running this file, you will see all numeric values as image in future.
 
